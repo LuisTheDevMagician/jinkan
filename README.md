@@ -2,6 +2,12 @@
 
 Aplicativo Flutter para explorar animes usando a API Jikan (MyAnimeList).
 
+# LINKS:
+
+Linkedin: https://www.linkedin.com/pulse/consumo-de-api-com-flutter-luis-eduardo-aifhf/
+
+Youtube: https://youtu.be/j1Kd66gZ-B8
+
 ## 📱 Funcionalidades
 
 - **Splash Screen**: Tela inicial com logo animada
